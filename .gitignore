@@ -1,6 +1,10 @@
+# Initial
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
 *.pyo
 .env/
 .DS_Store
+
+# Data
+data/canadian-income-survey-2022.csv
