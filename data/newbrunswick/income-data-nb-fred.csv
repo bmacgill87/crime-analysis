@@ -1,0 +1,54 @@
+﻿Income Statistics - Fredericton (2021),,,,,,
+Household income statistics (6),Number of households (2021) 3 4 5,Number of households (2016),Median household total income (2020) (2020 constant dollars),Median household total income (2015) (2020 constant dollars),Median household after-tax income (2020) (2020 constant dollars),Median household after-tax income (2015) (2020 constant dollars)
+Total – Household type including census family structure 6,"28,480","26,095","73,000","65,500","64,000","57,200"
+Census-family households,"16,715","15,895","97,000","89,000","84,000","77,000"
+Households consisting of only one census family without additional persons,"15,635","14,950","96,000","88,000","83,000","76,000"
+"One couple, with or without children in their census family","13,265","12,650","103,000","97,000","88,000","83,000"
+Without children,"7,565","7,035","90,000","86,000","78,000","75,000"
+With children,"5,700","5,620","126,000","115,000","106,000","96,000"
+One one-parent census family,"2,370","2,295","60,400","48,000","56,000","44,800"
+With a parent that is a man+ 7 8,425,385,"71,500","63,200","62,000","54,400"
+With a parent that is a woman+ 9 10,"1,945","1,910","58,400","44,800","54,800","42,800"
+Other census family households 11,"1,085",950,"120,000","104,000","108,000","93,000"
+Non-census family households,"11,765","10,195","46,400","41,200","41,200","36,400"
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Abbreviation notes:,,,,,,
+,,,,,,
+List of abbreviations and acronyms found within various Census products.,,,,,,
+(https://www12.statcan.gc.ca/census-recensement/2021/ref/symb-ab-acr-eng.cfm),,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+iBall:,,,,,,
+i781,Geography name: Fredericton; Geographic area type: City; Geographic area type abbreviation: C; Geographic level: Census subdivision; Province or territory abbreviation: N.B.; Dissemination Geography Unique Identifier (DGUID): 2021A00051310032; Alternative geographic code: 1310032; Province or territory geocode: 13; Short-form total non-response rate: 3.3; Data quality flag: 00000; Data quality note: ...,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Footnotes:,,,,,,
+1,"The boundaries and names of census geographies can change from one census to the next. In order to facilitate data comparisons between censuses, previous census data have been adjusted to reflect as closely as possible the 2021 boundaries of these areas. The methodology used for this adjustment involved spatially linking blocks of previous censuses (concordance to the 1996 Census used the 1996 enumeration areas to the 2021 boundaries). A previous census block was linked to the 2021 area within which its representative point fell. A limited number of interactive linkages were completed to further enhance the adjustment in certain areas. For some census geographies, it was not possible to reflect the 2021 boundaries. The 2021 boundaries may not be reflected as there was no previous census block to assign to the 2021 area. As well previous census data for some 2021 areas may not be available due to the fact that the concordance did not produce an accurate representation of the 2021 area.",,,,,
+2,Household size    'Household size' refers to the number of persons in a private household.,,,,,
+3,"Total income refers to the sum of certain incomes (in cash and, in some circumstances, in kind) of the statistical unit during a specified reference period. The components used to calculate total income vary between: – Statistical units of social statistical programs such as persons, private households, census families and economic families; – Statistical units of business statistical programs such as enterprises, companies, establishments and locations; and – Statistical units of farm statistical programs such as farm operator and farm family. In the context of persons, total income refers to receipts from certain sources, before income taxes and deductions, during a specified reference period. In the context of census families, total income refers to receipts from certain sources of all of its family members, before income taxes and deductions, during a specified reference period. In the context of economic families, total income refers to receipts from certain sources of all of its family members, before income taxes and deductions, during a specified reference period. In the context of households, total income refers to receipts from certain sources of all household members, before income taxes and deductions, during a specified reference period. The monetary receipts included are those that tend to be of a regular and recurring nature. Receipts that are included as income are: employment income from wages, salaries, tips, commissions and net income from self-employment (for both unincorporated farm and non-farm activities); income from investment sources, such as dividends and interest on bonds, accounts, guaranteed investment certificates (GICs) and mutual funds; income from employer and personal pension sources, such as private pensions and payments from annuities and registered retirement income funds (RRIFs); other regular cash income, such as child support payments received, spousal support payments (alimony) received and scholarships; income from government sources, such as social assistance, child benefits, Employment Insurance benefits, Old Age Security benefits, COVID-19 benefits and Canada Pension Plan and Québec Pension Plan benefits and disability income. Receipts excluded from this income definition are: one-time receipts, such as lottery winnings, gambling winnings, cash inheritances, lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals; capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income; employers' contributions to registered pension plans, Canada Pension Plan, Québec Pension Plan and Employment Insurance; voluntary inter-household transfers, imputed rent, goods and services produced for barter and goods produced for own consumption.",,,,,
+4,"After-tax income refers to total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes, provincial and territorial income taxes, less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.",,,,,
+5,"The median income of a specified group is the amount that divides the income distribution of that group into two halves, i.e., the incomes of half of the units in that group are below the median, while those of the other half are above the median. Median incomes of households are calculated for all units, whether or not they had income.",,,,,
+6,"For more information, refer to the Census Dictionary: Household type; Census family.",,,,,
+7,"Prior to the 2021 Census, this category refers to males. Starting in 2021, this category includes men (and/or boys), as well as some non-binary persons.",,,,,
+8,"Given that the non-binary population is small, data aggregation to a two-category gender variable is sometimes necessary to protect the confidentiality of responses provided. In these cases, individuals in the category “non-binary persons” are distributed into the other two gender categories and are denoted by the “+” symbol.    The sex variable in census years prior to 2021 and the two-category gender variable in the 2021 Census are included together in this table. Although sex and gender refer to two different concepts, the introduction of gender is not expected to have a significant impact on data analysis and historical comparability, given the small size of the transgender and non-binary populations. For additional information on changes of concepts over time, please consult the Age, Sex at Birth and Gender Reference Guide.",,,,,
+9,"Prior to the 2021 Census, this category refers to females. Starting in 2021, this category includes women (and/or girls), as well as some non-binary persons.",,,,,
+10,"Given that the non-binary population is small, data aggregation to a two-category gender variable is sometimes necessary to protect the confidentiality of responses provided. In these cases, individuals in the category “non-binary persons” are distributed into the other two gender categories and are denoted by the “+” symbol.    The sex variable in census years prior to 2021 and the two-category gender variable in the 2021 Census are included together in this table. Although sex and gender refer to two different concepts, the introduction of gender is not expected to have a significant impact on data analysis and historical comparability, given the small size of the transgender and non-binary populations. For additional information on changes of concepts over time, please consult the Age, Sex at Birth and Gender Reference Guide.",,,,,
+11,One-census-family households with additional persons and multiple-census-family households.,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"How to cite: Statistics Canada. Table 98-10-0057-01  Household income statistics by household type: Canada, provinces and territories, census divisions and census subdivisions",,,,,,
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810005701,,,,,,
