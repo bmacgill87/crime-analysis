@@ -1,12 +1,4 @@
 # Crime Analysis Project
 
-This objective of this project is to analyze crime statistics across Canada and identify certain trends.
+This project explores the relationships between crime rates and socioeconomic indicators across Canada. The objective was to identify whether factors such as income, education, and unemployment correlate with crime rates at a high-level.
 
-## Running the Project
-
-To run this project locally, 
-
-1. Install Python and Jupyter.
-2. Run `jupyter notebook`.
-3. Navigate to `src`.
-4. Open `crime-analysis.ipynb`.
